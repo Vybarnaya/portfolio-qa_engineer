@@ -5,7 +5,7 @@
 ### Тест-дизайн и тест-аналитика
 
 #### Работа с требованиями 
- Задание: Изучить [требования](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing), сделать декомпозицию требований и составить по требованиям mind-map
+  Задание: Изучить [требования](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing), сделать их декомпозицию и составить по требованиям mind-map
  
  Решение: [Диаграмма связей](https://drive.google.com/file/d/1ARHVwp8BCZtIBhC7TpPxgY9HuisFFEwT/view?usp=sharing)
  
@@ -13,8 +13,11 @@
  
  
 #### Классы эквивалентности
- Задание: Выделить классы эквивалентности для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing).
+ Задание: Выделить классы эквивалентности для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing). Для каждого класса определить линейный он или нелинейный.
 
+Решение:  [Классы эквивалентности](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=842307886)
+
+![классы эквивалентности](https://1drv.ms/i/s!AvJOWfDMaM4pg7MmyAG0oo7kChsn8A?e=xLnC2O)
 
 ##### Попарное тестирование
 
