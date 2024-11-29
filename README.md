@@ -37,5 +37,4 @@
   
   Решение: [Диаграмма состояний и таблица переходов](https://docs.google.com/spreadsheets/d/1vlAwgcOSWS1VNS2oOfQ48WII2MkKmKk_cXv5lQLDjc4/edit?usp=sharing)
 
-  ![](https://drive.google.com/file/d/1-2BN22iEiDalNJWhdUz0chSwctNyBguC/view?usp=sharing)
- 
+  
