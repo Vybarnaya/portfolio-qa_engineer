@@ -36,4 +36,6 @@
   Задание: Составить диаграмму переходов состояний по [требованиям](https://gbcdn.mrgcdn.ru/uploads/asset/5817775/attachment/86b2e0b2bf289eefda65ea4e149b05fb.pdf). Составить таблицу переходов состояний, опираясь на построенную диаграмму и требования.
   
   Решение: [Диаграмма состояний и таблица переходов](https://docs.google.com/spreadsheets/d/1vlAwgcOSWS1VNS2oOfQ48WII2MkKmKk_cXv5lQLDjc4/edit?usp=sharing)
+
+  ![](https://drive.google.com/file/d/1-2BN22iEiDalNJWhdUz0chSwctNyBguC/view?usp=sharing)
  
