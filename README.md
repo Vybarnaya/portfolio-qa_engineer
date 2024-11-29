@@ -17,7 +17,7 @@
 
 Решение:  [Классы эквивалентности](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=842307886)
 
-![классы эквивалентности](https://1drv.ms/i/s!AvJOWfDMaM4pg7MmyAG0oo7kChsn8A?e=xLnC2O)
+![классы эквивалентности](https://1drv.ms/i/s!AvJOWfDMaM4pg7Mmr9glS4BG_bTanQ?e=ykVVOF)
 
 ##### Попарное тестирование
 
