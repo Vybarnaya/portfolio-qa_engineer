@@ -30,7 +30,7 @@
 
   Решение: [Доменный анализ](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=61184320)
 
-  В качестве классов эквивалентности  и попарных наборов были использованы значения пп.2,3 
+  В качестве классов эквивалентности  и попарных наборов были использованы значения пп. [1.2](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=842307886), [1.3](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=240194035)
 
   #### 1.5 Диаграммы и таблицы переходов состояний
   Задание: Составить диаграмму переходов состояний по [требованиям](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing). Составить таблицу переходов состояний, опираясь на построенную диаграмму и требования.
