@@ -50,7 +50,7 @@
    ### 3. Тестирование web-приложений
 
    #### 3.1 
-     Задание: Ознакомиться с ТЗ на экран [Профиль]([https://drive.google.com/file/d/12BQfwckqiQVn1eLRKAEx_ovGTir_CpW-/view?usp=sharing]
+     Задание: Ознакомиться с ТЗ на экран  [Профиль](https://drive.google.com/file/d/12BQfwckqiQVn1eLRKAEx_ovGTir_CpW-/view?usp=sharing)
      Протестировать функционал на экране Профиль на WEB. На найденные дефекты завести баг-репорты. 
 
      Решение: [Чек-листы и баг-репорты](https://docs.google.com/spreadsheets/d/1jn0pmAPfFq9NRVTrneNW05PtVLllrZVvsBaem37dBgw/edit?usp=sharing)
