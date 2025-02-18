@@ -52,7 +52,7 @@
    #### 3.1 
      Задание: Ознакомиться с ТЗ на экран Профиль. Протестировать функционал на экране Профиль на WEB. На найденные дефекты завести баг-репорты. 
 
-     Решение: [Чек-листы и баг-репорты ](https://docs.google.com/spreadsheets/d/1jn0pmAPfFq9NRVTrneNW05PtVLllrZVvsBaem37dBgw/edit?usp=sharing)
+     Решение: [Чек-листы и баг-репорты](https://docs.google.com/spreadsheets/d/1jn0pmAPfFq9NRVTrneNW05PtVLllrZVvsBaem37dBgw/edit?usp=sharing)
 
    
 
