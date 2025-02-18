@@ -50,10 +50,11 @@
    ### 3. Тестирование web-приложений
 
    #### 3.1 
-    Задание: Ознакомиться с ТЗ на экран Профиль.Протестировать функционал на экране Профиль на WEB.На найденные дефекты завести баг-репорты. 
+   Задание: Ознакомиться с ТЗ на экран Профиль.Протестировать функционал на экране Профиль на WEB.На найденные дефекты завести баг-репорты. 
 
-    Решение: 
-  [Чек-листы и баг-репорты](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing)
+   Решение: [Чек-листы и баг-репорты](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing)
+
+   
 
 
    
