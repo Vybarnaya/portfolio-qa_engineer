@@ -49,15 +49,20 @@
 
    ### 3. Тестирование web-приложений
 
-   #### 3.1 
-   Задание: Ознакомиться с ТЗ на экран Профиль.Протестировать функционал на экране Профиль на WEB.На найденные дефекты завести баг-репорты. 
+   #### 3.1 Основы тестирования WEB-приложений
+   Задание: Ознакомиться с ТЗ на экран Профиль. Протестировать функционал на экране Профиль на WEB. На найденные дефекты завести баг-репорты. 
 
-   Решение: [Чек-листы и баг-репорты](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing)
+   Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования функционала на экране Профиль на WEB](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing)
 
-   #### 3.2
-   Задание: провести тестирование функционала социальной сети для тестировщиков, согласно плану.
+   #### 3.2 Chrome DevTools
+   Задание: провести тестирование функционала социальной сети для тестировщиков согласно плану.
 
-   Решение: [Отчет по результатам тестирования](https://docs.google.com/document/d/1lZf196wtjhV6ela2c15sWjY1Qz1si5VE/edit?usp=sharing&ouid=117441247688904656363&rtpof=true&sd=true)
+   Решение: [Отчет по результатам тестирования функционала социальной сети для тестировщиков](https://docs.google.com/document/d/1lZf196wtjhV6ela2c15sWjY1Qz1si5VE/edit?usp=sharing&ouid=117441247688904656363&rtpof=true&sd=true)
+   
+   #### 3.3 Тестирование форм
+   Задание:  Составить чек-листы по [ТЗ](https://docs.google.com/document/d/1wKKgZLR3w5AVPbEV8GPyBsUrw5Q515TZCMsB93PPxrg/edit?usp=sharing) на форму обратной связи, провести тестирование согласно чек-листам. 
+             Завести баг-репорты на найденные дефекты.
 
+   Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования формы обратной связи](https://docs.google.com/spreadsheets/d/1FQEvlTY_yG7zBu3vqCh6_DMoFvF8b6WIPk__XYH1FIE/edit?usp=sharing)
 
    
