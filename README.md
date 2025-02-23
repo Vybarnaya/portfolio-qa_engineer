@@ -86,7 +86,7 @@ updated_at - дата последнего обновления.
 
  Задание : Найдите количество друзей у каждого пользователя. Выведите для каждого пользователя идентификатор пользователя, имя, 
 фамилию и количество друзей cnt. Сортировка выводимых записей в порядке возрастания идентификатора пользователя. 
-
+```
 CREATE TABLE users
 (	
 	id INT NOT NULL PRIMARY KEY,
@@ -139,7 +139,7 @@ left join friend_requests f on (u.id = f.initiator_user_id or u.id = f.target_us
 and f.status = 'approved'
 group by u.id
 order by u.id;
-
+```
 
 2. База данных содержит сущности:
 users – пользователи;
