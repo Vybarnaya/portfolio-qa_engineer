@@ -25,7 +25,8 @@
 
   Решение: [Попарные наборы данных для формы оплаты](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=240194035)
   
-  Для составления попарных наборов использовался онлайн - инструмент  [Pairwise Online Tool](https://pairwise.teremokgames.com/)   и выделенные выше классы эквивалентности								
+  Для составления попарных наборов использовался онлайн - инструмент  [Pairwise Online Tool](https://pairwise.teremokgames.com/)   и выделенные выше классы эквивалентности.
+  
 
 #### 1.4 Граничные згачения и доменный анализ
  Задание: Определить граничные значения и составить таблицу доменного анализа для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing)
@@ -33,6 +34,7 @@
   Решение: [Доменный анализ](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=61184320)
 
   В качестве классов эквивалентности  и попарных наборов были использованы значения пп. [1.2](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=842307886), [1.3](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=240194035)
+
 
   #### 1.5 Диаграммы и таблицы переходов состояний
   Задание: Составить диаграмму переходов состояний по [требованиям](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing). Составить таблицу переходов состояний, опираясь на построенную диаграмму и требования.
@@ -49,27 +51,32 @@
    Решение: [Отчет о тестировании функционала Создание публикации](https://docs.google.com/document/d/1O26MapMzibcWm6lynNk24z7NxHQmO98lj8d25C4P7HA/edit?usp=sharing)
 
 
+
    ### 3. Тестирование web-приложений
 
    #### 3.1 Основы тестирования WEB-приложений
    Задание: Ознакомиться с [ТЗ на экран Профиль](https://drive.google.com/file/d/12BQfwckqiQVn1eLRKAEx_ovGTir_CpW-/view?usp=sharing). Протестировать функционал на экране Профиль на WEB. На найденные дефекты завести баг-репорты. 
 
    Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования функционала на экране Профиль на WEB](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing)
+   
 
    #### 3.2 Chrome DevTools
    Задание: провести тестирование функционала социальной сети для тестировщиков согласно плану.
 
    Решение: [Отчет по результатам тестирования функционала социальной сети для тестировщиков](https://docs.google.com/document/d/1lZf196wtjhV6ela2c15sWjY1Qz1si5VE/edit?usp=sharing&ouid=117441247688904656363&rtpof=true&sd=true)
    
+   
+   
    #### 3.3 Тестирование форм
    Задание:  Составить чек-листы по [ТЗ](https://docs.google.com/document/d/1wKKgZLR3w5AVPbEV8GPyBsUrw5Q515TZCMsB93PPxrg/edit?usp=sharing) на форму обратной связи, провести тестирование согласно чек-листам. 
              Завести баг-репорты на найденные дефекты.
 
    Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования формы обратной связи](https://docs.google.com/spreadsheets/d/1FQEvlTY_yG7zBu3vqCh6_DMoFvF8b6WIPk__XYH1FIE/edit?usp=sharing)
+   
 
    ### 4. Тестирование мобильных приложений
 
-   Задание: Провести тестирование блока “Лента и отображение поста” нашего приложения с помощью мобильной фермы.
+   Задание 4.1: Провести тестирование блока “Лента и отображение поста”  приложения с помощью мобильной фермы.
 
 1. Изучить [требования](https://drive.google.com/file/d/160urUA-PnU_vcKfcOhuIaJypJbfjYByM/view?usp=sharing) к блоку “Лента и отображение” (стр 6 - 11 требований)
 2. Составить тест-кейсы на тестирование
@@ -77,8 +84,17 @@
 4. При наличии багов - завести баг-репорт. К каждому багу прикладывайте скриншоты/видео/логи.
 5. Сформировать отчет о тестировании функциональности.
 
-   Решение: [Тест-кейсы, чек-листы и  баг-репорты на блок "Лента и отображение" социальной сети для тестировщиков](https://docs.google.com/spreadsheets/d/1fnSzUkALVyCrnaP7H8E1JDilSr8nyxzT7tq6Oj-YtKM/edit?usp=sharing)
+Решение: [Тест-кейсы, чек-листы и  баг-репорты на блок "Лента и отображение" социальной сети для тестировщиков](https://docs.google.com/spreadsheets/d/1fnSzUkALVyCrnaP7H8E1JDilSr8nyxzT7tq6Oj-YtKM/edit?usp=sharing)
 
+
+   Задание 4.2: Функциональное тестирование мобильных приложений
+
+  1) Составить тест кейсы на раздел Авторизация приложения GP. [Продуктовые требования](https://drive.google.com/file/d/160urUA-PnU_vcKfcOhuIaJypJbfjYByM/view?usp=sharing)
+  2) Провести тестирование по разделу (на реальном/симуляторе/эмуляторе/мобильной ферме).
+  3) Предоставить отчёт о тестировании функциональности.     
+  4) Оценить юзабили приложения. При проведении юзабили тестирования не заводить баги, составить документ со своими рекомендациями.
+
+   Решение: [Тест-кейсы, чек-листы и  баг-репорты на блок "Авторизация" социальной сети для тестировщиков](https://docs.google.com/spreadsheets/d/1ozNhLiM2ryAjQkSTdSNAzLNQM4hAvbezqxEfjAO4MyU/edit?usp=sharing)
    
 
    ## Базы данных и SQL
