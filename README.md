@@ -67,6 +67,20 @@
 
    Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования формы обратной связи](https://docs.google.com/spreadsheets/d/1FQEvlTY_yG7zBu3vqCh6_DMoFvF8b6WIPk__XYH1FIE/edit?usp=sharing)
 
+   ### 4. Тестирование мобильных приложений
+
+   Задание: Провести тестирование блока “Лента и отображение поста” нашего приложения с помощью мобильной фермы.
+
+1. Изучить [требования](https://drive.google.com/file/d/160urUA-PnU_vcKfcOhuIaJypJbfjYByM/view?usp=sharing) к блоку “Лента и отображение” (стр 6 - 11 требований)
+2. Составить тест-кейсы на тестирование
+3. Провести тестирование по чек листу с помощью мобильной фермы Samsung Remote Test Lab. 
+4. При наличии багов - завести баг-репорт. К каждому багу прикладывайте скриншоты/видео/логи.
+5. Сформировать отчет о тестировании функциональности.
+
+   Решение: [Тест-кейсы, чек-листы и  баг-репорты на блок "Лента и отображение" социальной сети для тестировщиков](https://docs.google.com/spreadsheets/d/1fnSzUkALVyCrnaP7H8E1JDilSr8nyxzT7tq6Oj-YtKM/edit?usp=sharing)
+
+   
+
    ## Базы данных и SQL
 
 1. У сущности «пользователи» имеются следующие поля(атрибуты):
@@ -89,20 +103,21 @@ updated_at - дата последнего обновления.
 ```
 CREATE TABLE users
 (	
-	id INT NOT NULL PRIMARY KEY,
+    id INT NOT NULL PRIMARY KEY,
     firstname VARCHAR(45) not null,
     lastname VARCHAR(45) not null,
     email VARCHAR(45) not null
 );
 
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('1', 'ivan', 'ivanov', 'ролджщ');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('2', 'petr', 'petrov', '1254hkk');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('3', 'kate', 'smitt', 'kk44');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('4', 'jak', 'mouth', 'hjk55');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('5', 'jon', 'swep', 'bjk55');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('6', 'sam', 'polder', '56632');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('7', 'anna', 'sergeeva', '55kk');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('8', 'pol', 'linder', 'gh55');
+INSERT INTO users (id, firstname, lastname, email)
+VALUES  ('1', 'ivan', 'ivanov', 'ролджщ'),
+        ('2', 'petr', 'petrov', '1254hkk'),
+        ('3', 'kate', 'smitt', 'kk44'),
+	('4', 'jak', 'mouth', 'hjk55'),
+	('5', 'jon', 'swep', 'bjk55'),
+	('6', 'sam', 'polder', '56632'),
+	('7', 'anna', 'sergeeva', '55kk'),
+	('8', 'pol', 'linder', 'gh55');
 
 CREATE TABLE friend_requests
 (initiator_user_id int,
@@ -183,6 +198,7 @@ updated_at - дата последнего обновления.
 
  Задание 2.1 : Найдите общее количество лайков, которые получили пользователи женского пола. 
 
+```
 CREATE TABLE profiles
 (id INT,
  gender varchar(2)
@@ -234,12 +250,13 @@ SELECT count(p.id) FROM likes l
 left JOIN media m on l.media_id = m.id
 left JOIN profiles p on m.user_id = p.id
 where gender = 'f';
-
+```
 
  Задание 2.2 : Найдите количество лайков, которые поставили пользователи женского пола и мужского пола.
 Выведите название пола (преобразовав значение атрибута f в женский, а значение ‘m` - мужской) и количество, поставленных лайков, 
 применив к количеству лайков сортировку по убыванию.
 
+```
 SELECT
 case 
 when gender = 'f'
@@ -255,12 +272,14 @@ order by count(gender) desc;
 
 SELECT * FROM likes l
 left JOIN profiles p on l.user_id = p.id;
+```
 
 Задание 2.3: Найти количество сообщений, отправленных каждым пользователей. В зависимости от количества отправленных сообщений рассчитать ранг пользователей, первое место присвоив пользователю(ям) с наибольшим количеством отправленных сообщений. Вывести полученный ранг, имя, фамилия, пользователя и кол-во отправленных сообщений. Выводимый список необходимо отсортировать в порядке возрастания ранга.
 
+```
 CREATE TABLE users
 (	
-	id INT NOT NULL PRIMARY KEY,
+    id INT NOT NULL PRIMARY KEY,
     firstname VARCHAR(45) not null,
     lastname VARCHAR(45) not null,
     email VARCHAR(45) not null
@@ -301,9 +320,11 @@ u.id, firstname, lastname, count(m.to_user_id)  as count_mes
 from users u
 left join messadges m on u.id = m.from_user_id
 group by u.id;
+```
 
 Задание 2.4: Получите список сообщений, отсортированных по возрастанию даты отправки. Вычислите разность между соседними значениями дат отправки. Разности выразите в минутах. Выведите идентификатор сообщения, дату отправки, дату отправки следующего сообщения и разницу даты отправки соседних сообщений.
 
+```
 select *from messadges;
 
 select id, created_at,
@@ -313,11 +334,13 @@ from messadges;
 select id, created_at,
 lead(created_at) over() as cnt, TIMESTAMPDIFF(MINUTE, created_at, lead(created_at) over()) as dif_time
 from messadges;
+```
 
-3. Задание: Собрать дэшборд, в котором содержится информация о максимальной задолженности в каждом банке, а также средний размер процентной ставки в каждом банке в зависимости от сегмента и количество договоров 
+3. Задание: Собрать дэшборд, в котором содержится информация о максимальной задолженности в каждом банке, а также средний размер процентной ставки в каждом банке в зависимости от сегмента и количество договоров.
 
+```
 CREATE table bank (
-	TB Varchar(1),
+    TB Varchar(1),
     id_client int,
     id_dog int,
     osz int,
@@ -410,4 +433,4 @@ SELECT ROW_NUMBER() OVER(order by count_revision desc) as 'порядковый 
  FROM bank_revision)
  SELECT * FROM ds
   WHERE rank_bank = 2;
-
+```
