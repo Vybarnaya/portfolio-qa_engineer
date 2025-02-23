@@ -28,7 +28,7 @@
   Для составления попарных наборов использовался онлайн - инструмент  [Pairwise Online Tool](https://pairwise.teremokgames.com/)   и выделенные выше классы эквивалентности.
   
 
-#### 1.4 Граничные згачения и доменный анализ
+#### 1.4 Граничные значения и доменный анализ
  Задание: Определить граничные значения и составить таблицу доменного анализа для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing)
 
   Решение: [Доменный анализ](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=61184320)
