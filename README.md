@@ -1,6 +1,8 @@
 # Портфолио 
+### Ольга Выборная, тестировщик
 
-В портфолио собраны проекты, выполненные во время обучения на образовательной платформе [GeekBrains](https://gb.ru/) по специальности Тестировщик.
+В портфолио собраны проекты, выполненные во время обучения на образовательной платформе [GeekBrains](https://gb.ru/) по специальности Тестировщик. Тестирование мобильных приложений. 
+
 
 ## Тестирование
 
@@ -15,12 +17,14 @@
  
  
 #### 1.2 Классы эквивалентности
+
  Задание: Выделить классы эквивалентности для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing?gid=842307886#gid=842307886). Для каждого класса определить линейный он или нелинейный.
 
 Решение:  [Классы эквивалентности для формы оплаты](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=842307886)
 
 
 #### 1.3 Попарное тестирование
+
   Задание: Составить попарные наборы данных для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing)
 
   Решение: [Попарные наборы данных для формы оплаты](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=240194035)
@@ -29,6 +33,7 @@
   
 
 #### 1.4 Граничные значения и доменный анализ
+
  Задание: Определить граничные значения и составить таблицу доменного анализа для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html) по [требованиям](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing)
 
   Решение: [Доменный анализ](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=61184320)
@@ -37,6 +42,7 @@
 
 
   #### 1.5 Диаграммы и таблицы переходов состояний
+  
   Задание: Составить диаграмму переходов состояний по [требованиям](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing). Составить таблицу переходов состояний, опираясь на построенную диаграмму и требования.
   
   Решение: [Диаграмма состояний и таблица переходов](https://docs.google.com/spreadsheets/d/1vlAwgcOSWS1VNS2oOfQ48WII2MkKmKk_cXv5lQLDjc4/edit?usp=sharing)
@@ -46,6 +52,7 @@
   ### 2. Тестирование API
 
   #### 2.1 Rest API
+  
    Задание : Ознакомиться с ТЗ на раздел “Создание Публикации”, написать чек-лист на проверку запроса на создание поста, создать коллекцию в Postman “Create Post”, написать тесты на проверку всех значений из ответа и status code, завести баг-репорты. Предоставить отчет о тестировании функционала “Создание публикации”.
    
    Решение: [Отчет о тестировании функционала Создание публикации](https://docs.google.com/document/d/1O26MapMzibcWm6lynNk24z7NxHQmO98lj8d25C4P7HA/edit?usp=sharing)
@@ -55,13 +62,16 @@
    ### 3. Тестирование web-приложений
 
    #### 3.1 Основы тестирования WEB-приложений
-   Задание: Ознакомиться с [ТЗ на экран Профиль](https://drive.google.com/file/d/12BQfwckqiQVn1eLRKAEx_ovGTir_CpW-/view?usp=sharing). Протестировать функционал на экране Профиль на WEB. На найденные дефекты завести баг-репорты. 
+   
+   Задание: Ознакомиться с [ТЗ на экран Профиль](https://drive.google.com/file/d/12BQfwckqiQVn1eLRKAEx_ovGTir_CpW-/view?usp=sharing). Протестировать функционал 
+на экране Профиль на WEB. На найденные дефекты завести баг-репорты. 
    Заполняется тестовая документация по шаблону
 
    Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования функционала на экране Профиль на WEB](https://docs.google.com/document/d/1Jid1zcMXuMA3JEgUHSdZoSpbJDWVawjmrAaQnfScN0w/edit?usp=sharing)
    
 
    #### 3.2 Chrome DevTools
+   
    Задание: провести тестирование функционала социальной сети для тестировщиков согласно плану.
              Заполняется тестовая документация по шаблону
 	     
@@ -70,7 +80,8 @@
    
    
    #### 3.3 Тестирование форм
-   Задание:  Составить чек-листы по [ТЗ](https://docs.google.com/document/d/1wKKgZLR3w5AVPbEV8GPyBsUrw5Q515TZCMsB93PPxrg/edit?usp=sharing) на форму обратной связи, провести тестирование согласно чек-листам.Завести баг-репорты на найденные дефекты.
+   
+   Задание:  Составить чек-листы по [ТЗ](https://docs.google.com/document/d/1wKKgZLR3w5AVPbEV8GPyBsUrw5Q515TZCMsB93PPxrg/edit?usp=sharing) на форму обратной связи, провести тестирование согласно чек-листам. Завести баг-репорты на найденные дефекты.
    Заполняется тестовая документация по шаблону
 
    Решение: [Чек-листы и баг-репорты, заведенные в результате тестирования формы обратной связи](https://docs.google.com/spreadsheets/d/1FQEvlTY_yG7zBu3vqCh6_DMoFvF8b6WIPk__XYH1FIE/edit?usp=sharing)
@@ -335,14 +346,15 @@ CREATE TABLE users
     email VARCHAR(45) not null
 );
 
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('1', 'ivan', 'ivanov', 'ролджщ');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('2', 'petr', 'petrov', '1254hkk');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('3', 'kate', 'smitt', 'kk44');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('4', 'jak', 'mouth', 'hjk55');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('5', 'jon', 'swep', 'bjk55');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('6', 'sam', 'polder', '56632');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('7', 'anna', 'sergeeva', '55kk');
-INSERT INTO `hw5`.`users` (`id`, `firstname`, `lastname`, `email`) VALUES ('8', 'pol', 'linder', 'gh55');
+INSERT INTO users(`id`, `firstname`, `lastname`, `email`)
+VALUES ('1', 'ivan', 'ivanov', 'ролджщ'),
+('2', 'petr', 'petrov', '1254hkk'),
+('3', 'kate', 'smitt', 'kk44'),
+('4', 'jak', 'mouth', 'hjk55'),
+('5', 'jon', 'swep', 'bjk55'),
+('6', 'sam', 'polder', '56632'),
+('7', 'anna', 'sergeeva', '55kk'),
+('8', 'pol', 'linder', 'gh55');
 
 CREATE TABLE messadges
 (	
@@ -353,16 +365,17 @@ CREATE TABLE messadges
     created_at VARCHAR(45) not null   
 );
 
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('1', '1', '2', 'jkk', '2024-03-13');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('2', '1', '4', 'hjjj', '2024-03-09');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('3', '2', '5', 'ghjh', '2023-12-09');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('4', '8', '5', 'jkk', '2024-01-12');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('5', '5', '7', 'ghjh', '2022-08-30');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('6', '6', '1', 'hjj', '2021-11-08');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('7', '7', '3', 'jkli', '2022-09-18');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('8', '6', '8', 'rrt', '2022-01-12');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('9', '1', '2', 'xcc', '2024-02-15');
-INSERT INTO `hw5`.`messadges` (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`) VALUES ('10', '2', '6', 'hhj', '2020-12-09');
+INSERT INTO messadges (`id`, `from_user_id`, `to_user_id`, `body`, `created_at`)
+VALUES ('1', '1', '2', 'jkk', '2024-03-13'),
+('2', '1', '4', 'hjjj', '2024-03-09'),
+('3', '2', '5', 'ghjh', '2023-12-09'),
+('4', '8', '5', 'jkk', '2024-01-12'),
+('5', '5', '7', 'ghjh', '2022-08-30'),
+('6', '6', '1', 'hjj', '2021-11-08'),
+('7', '7', '3', 'jkli', '2022-09-18'),
+('8', '6', '8', 'rrt', '2022-01-12'),
+('9', '1', '2', 'xcc', '2024-02-15'),
+('10', '2', '6', 'hhj', '2020-12-09');
 
 SELECT 
 dense_rank() OVER(order by count(m.to_user_id) desc) as 'rank_mes',
