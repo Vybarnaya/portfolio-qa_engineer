@@ -29,7 +29,7 @@
 
   Решение: [Попарные наборы данных для формы оплаты](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=240194035)
   
-  Для составления попарных наборов использовался онлайн - инструмент  [Pairwise Online Tool](https://pairwise.teremokgames.com/)   и выделенные выше классы эквивалентности.
+  Для составления попарных наборов использовался онлайн - инструмент  [Pairwise Online Tool](https://pairwise.teremokgames.com/)   и выделенные выше [классы эквивалентности](https://docs.google.com/spreadsheets/d/1BmnRL6iPyQpGPa8ffP-pzazKK8cDackw-kbXu4my-K4/edit?usp=sharing#gid=842307886).
   
 
 #### 1.4 Граничные значения и доменный анализ
