@@ -9,12 +9,15 @@
 ### 1. Тест-дизайн и тест-аналитика
 
 #### 1.1 Работа с требованиями 
-  Задание: Изучить [требования](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing), сделать их декомпозицию и составить по требованиям mind-map
+  Задание1: Изучить [требования](https://docs.google.com/document/d/1qDu7Z0OdmZsVSSC-Hvw_L3s0YKTT8d3t4jy6b8q7v5A/edit?usp=sharing), сделать их декомпозицию и составить по требованиям mind-map
  
  Решение: [Диаграмма связей](https://drive.google.com/file/d/1ARHVwp8BCZtIBhC7TpPxgY9HuisFFEwT/view?usp=sharing)
  
  ![mind-map](https://github.com/user-attachments/assets/28297058-b3c8-442e-bd44-2372b01dc69c)
- 
+
+ Задание2: Для раздела "Забронировать столик" требований для FoodBuzz выявить в документации нарушение атрибутов требований.
+
+ Решение: [Выявленные нарушения атрибутов требований раздела "Забронировать столик" FoodBuzz](https://docs.google.com/spreadsheets/d/12QYJa3SOMdLqBB1PnTfd2GU37nxj9tFTqMc7lVzo6-8/edit?usp=sharing)
  
 #### 1.2 Классы эквивалентности
 
@@ -47,7 +50,7 @@
   
   Решение: [Диаграмма состояний и таблица переходов](https://docs.google.com/spreadsheets/d/1vlAwgcOSWS1VNS2oOfQ48WII2MkKmKk_cXv5lQLDjc4/edit?usp=sharing)
 
-  
+  ##### [Отчет по результатам тестирования проекта "Форма оплаты"](https://docs.google.com/document/d/1H9Ux-dFwuBCoD_cKboId1gaFrJOUURCMu-VFX3QxPyQ/edit?usp=sharing)
 
   ### 2. Тестирование API
 
