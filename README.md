@@ -50,7 +50,7 @@
   
   Решение: [Диаграмма состояний и таблица переходов](https://docs.google.com/spreadsheets/d/1vlAwgcOSWS1VNS2oOfQ48WII2MkKmKk_cXv5lQLDjc4/edit?usp=sharing)
 
-  ##### [Отчет по результатам тестирования проекта "Форма оплаты"](https://docs.google.com/document/d/1H9Ux-dFwuBCoD_cKboId1gaFrJOUURCMu-VFX3QxPyQ/edit?usp=sharing)
+  #### [Отчет по результатам тестирования проекта "Форма оплаты"](https://docs.google.com/document/d/1H9Ux-dFwuBCoD_cKboId1gaFrJOUURCMu-VFX3QxPyQ/edit?usp=sharing)
 
   ### 2. Тестирование API
 
